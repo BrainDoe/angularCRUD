@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Donatus Brain",
+      "lastname": "Okwe",
+      "email": "braindona@gmail.com",
+      "phone": 804736859,
+      "salary": "900000"
+    },
+    {
+      "id": 2,
+      "firstname": "Olatubora",
+      "lastname": "Felix",
+      "email": "olatubora@gmail.com",
+      "phone": 5475234093479,
+      "salary": "4323543243"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
